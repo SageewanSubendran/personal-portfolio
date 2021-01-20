@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@wkocjan/gatsby-theme-intro": "^1.0.14",
-    "gatsby": "^2.30.2",
+    "gatsby": "^2.31.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
   },
