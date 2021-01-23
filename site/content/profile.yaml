@@ -1,12 +1,12 @@
 - profile:
-  initials: JD
-  name: John Doe
-  email: john.doe@change.me
-  profession: Web Developer
+  initials: SS
+  name: Sageewan Subendran
+  email: sageewan.subendran@queensu.ca
+  profession: Full-Stack Developer
   image: images/profile.jpg
-  location: New York, USA
+  location: Toronto, ON
   relocation: true
-  company: Atomic Studio
+  company: Seeking New Opportunities
   for_hire: true
   focus: Learning Gatsby
   focus_url: https://gatsbyjs.org
