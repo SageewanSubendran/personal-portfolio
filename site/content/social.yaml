@@ -1,14 +1,14 @@
 - name: linkedin
-  url: https://linkedin.com/in/username
+  url: https://www.linkedin.com/in/sageewan-subendran-823188117/
 
 - name: twitter
-  url: https://twitter.com/username
+  url: 
 
 - name: facebook
-  url:
+  url: https://www.facebook.com/saj.suben
 
 - name: instagram
-  url:
+  url: https://www.instagram.com/saj_suben/
 
 - name: dribbble
   url:
@@ -20,7 +20,7 @@
   url:
 
 - name: github
-  url: https://github.com/username
+  url: https://github.com/sageewansubendran
 
 - name: goodreads
   url:
