@@ -2,7 +2,7 @@
   initials: SS
   name: Sageewan Subendran
   email: sageewan.subendran@queensu.ca
-  profession: Full-Stack Developer
+  profession: Software Developer
   image: images/profile.jpg
   location: Toronto, ON
   relocation: true
@@ -15,13 +15,13 @@
 
     User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
   skills:
+    - Java
     - JavaScript
-    - HTML / CSS
-    - Ruby on Rails
+    - Shopify Development
   tools:
-    - React
+    - Git
     - VSCode
-    - Gatsby
+    - React.js
   budget:
     currency: $
     min: 5
