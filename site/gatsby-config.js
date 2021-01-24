@@ -10,8 +10,8 @@ module.exports = {
       options: {
         basePath: "/",
         contentPath: "content/",
-        showThemeLogo: true,
-        theme: "classic",
+        showThemeLogo: false,
+        theme: "bright-green",
       },
     },
   ],
