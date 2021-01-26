@@ -13,7 +13,7 @@
   about: |
     "On a journey to explore the world of E-Commerce...and loving every moment of it!"
 
-    Hi there! My name is Sageewan (Sah-jee-wen) but I go by Saj. I was a Software Developer Intern with the Government of Canada (May '18 - Dec '18) and made the transition into the product space as a Product Manager Intern (Jan '19 - Apr '19). I am a new graduate from Computer Engineering (Innovation Stream) at Queen's University looking to continue my journey as a Full-stack Developer. I am passionate and heavily involved in the world of E-Commerce. Click on the arrow below to learn more about my E-Commerce journey.
+    Hi there! My name is Sageewan (Sah-jee-wen) but I go by Saj. I was a Software Developer Intern with the Government of Canada (May '18 - Dec '18) and made the transition into the product space as a Product Manager Intern (Jan '19 - Apr '19), and a Techincal Product Manager Intern (May '19 - Aug '19). I am a new graduate from Computer Engineering (Innovation Stream) at Queen's University looking to continue my journey as a Full-stack Developer. I am passionate and heavily involved in the world of E-Commerce. Want to talk about E-Commerce? Feel free to reach out to me!
   skills:
     - Java
     - JavaScript
@@ -24,6 +24,6 @@
     - React.js
   budget:
     currency: $
-    min: 5
-    max: 30
-    default: 10
+    min: 1
+    max: 10
+    default: 5
