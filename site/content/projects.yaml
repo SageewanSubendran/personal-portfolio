@@ -10,12 +10,11 @@
   icon: github
   image: images/lifestory.png
 
-- name: Example 2
-  url: https://github.com
-  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+- name: Shopify - Image Repository Marketplace
+  url: https://github.com/SageewanSubendran/shopify_image_repository
+  description: Simple Java App that simulates an image marketplace where Photographers (sellers) sell images to Shopify Merchants (buyers), ultimately simulating Shopify's Burst Platform.
   status: live
   tags:
-    - JavaScript
-    - HTML
-  icon: website
-  image: images/project.jpg
+    - Java
+  icon: github
+  image: images/role-selection-screenshot.png
