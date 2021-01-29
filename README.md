@@ -2,8 +2,6 @@
 
 # Personal Portfolio
 
-Updated Personal Website...under construction
-
-Check it out: sageewansubendran.com
+[Updated Personal Website](sageewansubendran.com)...under construction
 
 ![](construction-giphy.gif)
