@@ -1,3 +1,13 @@
+- name: Interactive Brokers - Portfolio Data Retrieval
+  url: https://github.com/SageewanSubendran/IBKR-portfolio-retrieval
+  description: A web application to retrieve your Interactive Brokers portfolio data which includes your positions (type, size, and value), date of purchase, and account value. This project is a microservice that will be integrated into a larger web appication.
+  status: in progress
+  tags:
+    - Python
+    - Flask
+  icon: github
+  image: images/ibkr-mobile-icon.png
+
 - name: Life Story
   url: https://github.com/SageewanSubendran/LifeStory
   description: A mobile application which allows users to document their life stories & memories within a calendar, each and everyday. Users are able to utilize Life Story as a digital journal with unlimited pages, where each story is neatly categorized in a calender. Check out the Github repository to learn more.
@@ -18,3 +28,26 @@
     - Java
   icon: github
   image: images/role-selection-screenshot.png
+
+- name: Old Personal Website
+  url: https://github.com/SageewanSubendran/Shopify-Front-End-Challenge
+  description: Shopify's 2018 Front End Developer Intern Challenge which required applicants to create the following screen as per the details provided.
+  status: live
+  tags:
+    - HTML
+    - CSS
+    - JavaScript
+  icon: github
+  image: images/shopify-frontend.png
+
+- name: Old Personal Website
+  url: https://sageewansubendran.github.io
+  description: First version of my personal website which highlights my early activities in the e-commerce world.
+  status: live
+  tags:
+    - HTML
+    - CSS
+    - JavaScript
+    - PHP
+  icon: website
+  image: images/old-portfolio.png
