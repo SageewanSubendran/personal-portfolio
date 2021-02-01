@@ -4,4 +4,4 @@
 
 [Updated Personal Website](https://www.sageewansubendran.com)...under construction
 
-![](construction-giphy.gif)
+![](https://github.com/SageewanSubendran/personal-portfolio/blob/main/site/content/images/website-giphy.gif)
