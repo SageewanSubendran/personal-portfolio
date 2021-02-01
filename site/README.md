@@ -2,4 +2,4 @@
 
 Updated Personal Website...under construction
 
-![](construction-giphy.gif)
+![](site/content/images/website-giphy.gif)
