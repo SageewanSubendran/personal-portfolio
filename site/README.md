@@ -1,5 +1,5 @@
 # Personal Portfolio
 
-Updated Personal Website...under construction
+[Updated Personal Website](https://www.sageewansubendran.com)
 
-![](site/content/images/website-giphy.gif)
+![](https://github.com/SageewanSubendran/personal-portfolio/blob/main/site/content/images/website-giphy.gif)
