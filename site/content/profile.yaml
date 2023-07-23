@@ -2,18 +2,19 @@
   initials: SS
   name: Sageewan Subendran
   email: f/mrgojdre       #Form endpoint on Formspree
-  profession: Software Engineer | REI
+  profession: Software Engineer & REI
   image: images/profile.jpg
   location: Toronto, ON
   relocation: true
   company: Lockheed Martin
   for_hire: false
-  focus: Software Development | Real Estate Investing & Development
+  focus: Software Development & REI
   focus_url: https://www.linkedin.com/in/sageewan-subendran-823188117/
   about: |
-    A focus on Backend Java Core Software Development. In addition to software development, I have a focus in investing in Real Estate primarily within Quebec, and I am venturing into developing real estate.
+    A focus on Backend Java Core Software Development. In addition to software development, I have a focus in investing in Real Estate primarily within Quebec. I am also venturing into developing multi-family homes.
 
-    Hi there! My name is Sageewan (Sah-jee-wen) but I go by Saj. I was a Software Developer Intern with the Government of Canada (May '18 - Dec '18) and made the transition into the product space as a Product Manager Intern (Jan '19 - Apr '19), and a Techincal Product Manager Intern (May '19 - Aug '19). I am a new graduate from Computer Engineering (Innovation Stream) at Queen's University looking to continue my journey as a Full-stack Developer. I am passionate and heavily involved in the world of E-Commerce. Want to talk about E-Commerce? Feel free to reach out to me!
+    Hi there! My name is Sageewan (Sah-jee-wen) but I go by Saj. I am a Software Engineer at Lockheed Martin with a focus in Java Core Backend Development. I also have a growing passion in Real Estate Investing and Development. Want to reach out and discuss any of my interests? Reach out on any one of my socials!
+    
   skills:
     - React.js
     - HTML/CSS
