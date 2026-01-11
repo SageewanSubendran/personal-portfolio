@@ -1,7 +1,17 @@
+- name: Zeal Estate Exchange
+  url: https://github.com/SageewanSubendran/IBKR-portfolio-retrieval
+  description: A web application for Real Estate Wholesalers, Investors, Home Owners, and Private Lenders fulfill their real estate needs within one ecosystem.
+  status: live
+  tags:
+    - HTML/CSS/JavaScript
+    - Firebase
+  icon: github
+  image: images/zealestateexchange-logo.png
+
 - name: Interactive Brokers - Portfolio Data Retrieval
   url: https://github.com/SageewanSubendran/IBKR-portfolio-retrieval
   description: A web application to retrieve your Interactive Brokers portfolio data which includes your positions (type, size, and value), date of purchase, and account value. This project is a microservice that will be integrated into a larger web appication.
-  status: in progress
+  status: live
   tags:
     - Python
     - Flask
