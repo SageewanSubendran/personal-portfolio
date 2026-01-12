@@ -12,6 +12,6 @@
     "gatsby-transformer-sharp": "^2.14.0"
   },
   "engines": {
-    "node": ">=14.0.0 <17"
+    "node": "14.x"
   }
 }
