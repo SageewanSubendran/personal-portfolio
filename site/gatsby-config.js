@@ -14,15 +14,5 @@ module.exports = {
         theme: "bright-green",
       },
     },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `GatsbyJS`,
-        short_name: `GatsbyJS`,
-        start_url: `/`,
-        display: `minimal-ui`,
-        icon: `content/images/favicon.png`,
-      },
-    },
   ],
 }
